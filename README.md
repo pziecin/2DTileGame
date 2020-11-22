@@ -9,7 +9,7 @@ Java, Swing, 2DGame,
 Download java jdk & compile.
 If it will not work check paths to configfile in classes.
 
-```python
+```Java
 
 javac ./src/pathgame/PathGame
 
