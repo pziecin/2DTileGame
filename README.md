@@ -9,7 +9,7 @@ Java, Swing, 2DGame,
 Download java jdk & compile.
 If it doesn't work check paths to `configfile` in classes.
 
-```Java
+```bash
 
 javac ./src/pathgame/PathGame
 
