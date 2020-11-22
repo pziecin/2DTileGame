@@ -7,9 +7,3 @@
 
 Download java jdk & compile.
 If it doesn't work check paths to `configfile` in classes.
-
-```bash
-
-javac GameState\*.java pathgame\*.java
-
-```
