@@ -10,6 +10,6 @@ If it doesn't work check paths to `configfile` in classes.
 
 ```bash
 
-javac ./src/pathgame/PathGame
+javac GameState\*.java pathgame\*.java
 
 ```
