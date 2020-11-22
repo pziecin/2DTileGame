@@ -6,7 +6,8 @@ Java, Swing, 2DGame,
 
 ##Instalation
 
-Java jdk
+Download java jdk & compile.
+If it will not work check paths to configfile in classes.
 
 ```python
 
