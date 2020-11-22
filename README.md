@@ -4,7 +4,7 @@ Java, Swing, 2DGame,
 ![](Mission-to-Mars-Game.gif)
 
 
-##Instalation
+## Instalation
 
 Download java jdk & compile.
 If it will not work check paths to configfile in classes.
